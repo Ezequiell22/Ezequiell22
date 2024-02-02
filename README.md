@@ -1,8 +1,8 @@
 
 ## Olá visitante, eu sou o ezequiel, apaixonado por programação e tecnologia!
 
-📚 No momento estou estudando React, TypeScript
-💰 Gosto demais do javaScript e provavelmente sera meu futuro sucesso de especialização.
+-📚 No momento estou estudando React, TypeScript <br/>
+-💰 Gosto demais de javaScript e provavelmente será meu futuro sucesso de especialização. <br/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,6 +12,15 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
+  ##
+
+
+<div style="width: 200px;">
+<a href="https://github.com/ezequiell22/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequiell22&langs_count=8" alt="Top Langs" />
+</a>
+</div>
+
   ##
  
 <div> 
