@@ -1,8 +1,7 @@
 
 ## Olá visitante, eu sou o ezequiel, apaixonado por programação e tecnologia!
 
--📚 No momento estou estudando React, TypeScript <br/>
--💰 Gosto demais de javaScript e provavelmente será meu futuro sucesso de especialização. <br/>
+-📚 No momento estou focado em fazer uma especialização em Delphi e ficar fluente em inglês <br/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
