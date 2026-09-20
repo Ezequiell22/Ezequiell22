@@ -1,3 +1,1 @@
-Most recently worked as a Software Engineer at Group SLk Joinville, where the focus was on developing an AI-powered agent using Python, LangChain, and FastAPI for automated data extraction and reporting. Contributed to building scalable multi-agent pipelines for converting natural language into SQL queries, addressing analytical needs effectively.  
 
-Academic pursuits include a specialization in Digital Forensics at Anhanguera Educacional, expected in 2026, and a postgraduate degree in Distributed Software Architecture from PUC Minas. Proficient in leveraging LangChain, Python, and engineering expertise to create innovative, efficient solutions tailored to operational and business requirements.
